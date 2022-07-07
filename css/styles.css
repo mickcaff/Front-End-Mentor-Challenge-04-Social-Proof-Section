@@ -1,0 +1,14 @@
+* {
+    font-family: 'League Spartan', sans-serif;
+}
+
+/* Need to learn how to add two background images */
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url('../images/bg-pattern-top-mobile.svg'), url('../images/bg-pattern-bottom-mobile.svg');
+    background-position: top left, bottom right;
+    background-size: contain;
+    background-repeat: no-repeat, no-repeat;
+}
