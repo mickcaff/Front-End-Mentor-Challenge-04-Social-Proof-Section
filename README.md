@@ -55,7 +55,7 @@ Mobile View
 
 This was my first challenge where I used CSS Grid. Over the past week I have completed two LinkedIn Learning courses that taught how to use CSS Grid and FlexBox. 
 
-I really enjoy using CSS Grid. It is a great tool for determining layout of the page or component. 
+I really enjoy using CSS Grid. It is a great tool for determining the layout of the page or component. 
 
 The two CSS Grid courses I completed were:
 
