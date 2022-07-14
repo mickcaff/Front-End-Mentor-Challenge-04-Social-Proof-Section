@@ -38,7 +38,7 @@ Mobile View
 ### Links
 
 - Solution URL: [https://github.com/mickcaff/Front-End-Mentor-Challenge-4-Social-Proof-Section](https://github.com/mickcaff/Front-End-Mentor-Challenge-4-Social-Proof-Section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://singular-flan-763248.netlify.app/](https://singular-flan-763248.netlify.app/)
 
 ## My process
 
