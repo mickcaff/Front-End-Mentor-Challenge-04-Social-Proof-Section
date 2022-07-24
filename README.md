@@ -53,7 +53,7 @@ Mobile View
 
 ### What I learned
 
-This was my first challenge where I used CSS Grid. Over the past week I have completed two LinkedIn Learning courses that taught how to use CSS Grid and FlexBox. 
+This was my first challenge where I used CSS Grid. Over the past week, I have completed two LinkedIn Learning courses that taught myself how to use CSS Grid and FlexBox. 
 
 I really enjoy using CSS Grid. It is a great tool for determining the layout of the page or component. 
 
