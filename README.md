@@ -2,14 +2,18 @@
 
 This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+### Link
+
+- My Solution Live Site URL: [https://singular-flan-763248.netlify.app/](https://singular-flan-763248.netlify.app/)
+
 ## Table of contents
 
 - [Frontend Mentor - Social proof section solution](#frontend-mentor---social-proof-section-solution)
+    - [Link](#link)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Solution Screenshots](#solution-screenshots)
-    - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
@@ -35,10 +39,6 @@ Mobile View
 
 <img src="./images/final-mobile.png" alt="Mobile view screenshot" width="250px">
 
-### Links
-
-- Solution URL: [https://github.com/mickcaff/Front-End-Mentor-Challenge-4-Social-Proof-Section](https://github.com/mickcaff/Front-End-Mentor-Challenge-4-Social-Proof-Section)
-- Live Site URL: [https://singular-flan-763248.netlify.app/](https://singular-flan-763248.netlify.app/)
 
 ## My process
 
